@@ -64,8 +64,8 @@
 ![empd3](https://github.com/sasi1324/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/150313315/2ef128c8-3433-4fa7-a265-f46f366412d6)
 
 
-### Name: 
-### Register Number:
+### Name: SASINTHARA S
+### Register Number: 23005130
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
